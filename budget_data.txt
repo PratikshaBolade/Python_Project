@@ -1,0 +1,4 @@
+Income: 25000.0
+Expense: Food, Amount: 2500.0
+Expense: House Rent, Amount: 4000.0
+Expense: EMI, Amount: 8284.0
